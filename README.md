@@ -1,5 +1,9 @@
-                                                              ## Hi there 👋,I'm Gustavo
-## future web developer
+<p align="center">
+  <strong>##Im</strong><br>
+  <strong>Nome 2</strong><br>
+  <strong>Nome 3</strong><br>
+</p>
+
 <hr></hr>
 🌱 I’m currently learning:
 
