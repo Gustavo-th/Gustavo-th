@@ -1,24 +1,10 @@
-<p align="center">
- <strong> I'm Gustavo 😃 </strong>
-</p>
-<hr></hr>
+<h1 aling="center">Hi 👋,I'm Gustavo </h1>
+<h2 aling="center"> beginner web developer </h2>
 
-  🌱 I’m currently learning:
+- 🌱 I’m currently learning:
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,linux)](https://skillicons.dev)
-  
 
 
-
-<!--
-
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
