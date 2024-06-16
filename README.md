@@ -1,5 +1,6 @@
 ## Hi there 👋,I'm Gustavo
-<hr>
+<hr></hr>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vscode,linux,arch)](https://skillicons.dev)
 
 <!--
