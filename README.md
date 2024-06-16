@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>I'm Gustavo 😃 </strong><br>
+  ##I'm Gustavo 😃
 </p>
 
 <hr></hr>
