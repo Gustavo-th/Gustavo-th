@@ -2,7 +2,7 @@
 <hr></hr>
 🌱 I’m currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vscode,linux,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,linux)](https://skillicons.dev)
 
 <!--
 
