@@ -1,14 +1,13 @@
 <p align="center">
-  <strong> I'm Gustavo 😃
+ <strong> I'm Gustavo 😃 </strong>
 </p>
-
 <hr></hr>
-<p>
+
   🌱 I’m currently learning:
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,linux)](https://skillicons.dev)
   
-</p>
+
 
 
 <!--
