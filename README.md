@@ -3,9 +3,13 @@
 </p>
 
 <hr></hr>
-🌱 I’m currently learning:
-
+<p>
+  🌱 I’m currently learning:
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,linux)](https://skillicons.dev)
+  
+</p>
+
 
 <!--
 
