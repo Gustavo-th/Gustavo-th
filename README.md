@@ -4,7 +4,7 @@
 [![media](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavo-th)
 
 ![Gustavo-th GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-th&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-th&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-th&hide_progress=false)
 
 
 
