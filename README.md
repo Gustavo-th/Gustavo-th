@@ -4,7 +4,7 @@
 [![media](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavo-th)
 
 ![Gustavo-th GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-th&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-th&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-th&theme=blue-green)
 
 
 
@@ -19,7 +19,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
 ### Sistemas Operacionais
