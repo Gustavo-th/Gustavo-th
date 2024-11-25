@@ -15,6 +15,7 @@
 
 [![media](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dependent-Ingenuity8/)
 [![media](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavo-th)
+[![media](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_nunescampos/profilecard/?igsh=MWY5d2I2ejV5YWlkNA==)
 
 ### Main skills:
 
